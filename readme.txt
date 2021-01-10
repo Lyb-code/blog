@@ -1,5 +1,5 @@
 介绍：参考自B站Markerhub
-一个基于SpringBoot + Vue开发的前后端分离博客项目，带有超级详细开发文档和讲解视频。还未接触过vue开发，或者前后端分离的同学，学起来哈。别忘了给vueblog一个star！感谢
+一个基于SpringBoot + Vue开发的前后端分离博客项目，带有超级详细开发文档和讲解视频。
 
 项目文档：
 开发文档：https://juejin.im/post/5ecfca676fb9a04793456fb8
